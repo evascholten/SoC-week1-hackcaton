@@ -2,7 +2,7 @@
 
 So far, the solution will keep adding +1 to cont1 when the loop meets a new continent. 
 
-#Initial idea
+# Initial idea
 
 so we start looping over tiles and if it's a land tile, we keep looping as long as it has at least 1 land tile neighbour. But only checking downwards, not up I suppose, otherwise it would always have neighbours unless it's a 1x1 continent. So when a land tile has no land neighbours below or next to it, we stop adding 1 to count. We keep looping though until we find another land tile and then it starts again. However, for this second continent, we don't add 1 to count, we add it to a new word, like count2
 
