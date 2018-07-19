@@ -13,7 +13,7 @@ world = [
 ]
 
 #loop over each subarray and count all the 1s (land)
-#check if the land tile has neighbours left, right and below and add +1 to cont1 if it does
+#check if the land tile has neighbours left, right and below and add +1 to cont1 if it does 
 
 cont1 = 0
 cont2 = 0
