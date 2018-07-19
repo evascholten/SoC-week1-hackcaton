@@ -14,7 +14,7 @@ OR
 
 If a land tile has zero neighbours on top
 
-Or
+OR
 
 Left
 
