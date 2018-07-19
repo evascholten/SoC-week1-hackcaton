@@ -2,9 +2,9 @@
 
 So far, the solution will keep adding +1 to cont1 when the loop meets a new continent. 
 
-================
-WHAT'S NEEDED
-================
+
+# WHAT'S NEEDED
+
 
 If a land tile has no land neighbours below (including diagonally) and the next land tile doesn't either until the end
 
